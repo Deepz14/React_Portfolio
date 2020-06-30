@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.seoImg {
+  width: 50%;
+}
+.google {
+  background-color: #52b788;
+  width: 90%;
+  border-radius: 15px;
+}
+.facebook {
+  background-color: #4ea8de;
+  width: 85%;
+  border-radius: 15px;
+}
+.instagram {
+  background-color: #ef233c;
+  width: 75%;
+  border-radius: 15px;
+}

@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.webdevImg {
+  width: 50%;
+}
+.php {
+  background-color: violet;
+  width: 90%;
+  border-radius: 15px;
+}
+.mysql {
+  background-color: #4ea8de;
+  width: 85%;
+  border-radius: 15px;
+}
+.jquery {
+  background-color: #bc6c25;
+  width: 80%;
+  border-radius: 15px;
+}
+.asp {
+  background-color: #52b788;
+  width: 95%;
+  border-radius: 15px;
+}
+.ecommerse {
+  background-color: #ee6c4d;
+  width: 75%;
+  border-radius: 15px;
+}

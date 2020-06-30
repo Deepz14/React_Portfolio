@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.mobileappImg {
+  width: 50%;
+}
+.android {
+  background-color: springgreen;
+  width: 90%;
+  border-radius: 15px;
+}
+.ios {
+  background-color: #c8e7ff;
+  width: 85%;
+  border-radius: 15px;
+}
+.custom {
+  background-color: #b8bedd;
+  width: 75%;
+  border-radius: 15px;
+}

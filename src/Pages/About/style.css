@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+}
+.img-container {
+  display: flex;
+  justify-content: center;
+}
+.img-container img {
+  width: 35%;
+}
+.subcribe-section {
+  background-color: #5390d9;
+}
+.btnSubscribe {
+  background-color: gray;
+  border-radius: 10px;
+}
+.subcribe-searchbar {
+  border-radius: 15px;
+}
+.companyIcon img {
+  width: 25%;
+}

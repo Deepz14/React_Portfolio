@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.companyIcon {
+  text-align: center;
+}
+.companyIcon img {
+  width: 40%;
+}
+.requirement-section {
+  background-color: #5390d9;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.aboutcompanyImg {
+  display: flex;
+  justify-content: center;
+}
+.aboutcompanyImg img {
+  width: 35%;
+}
+.subcribe-section {
+  background-color: #5390d9;
+}
+.btnSubscribe {
+  background-color: gray;
+  border-radius: 10px;
+}
+.subcribe-searchbar {
+  border-radius: 15px;
+}
+.contact-section {
+  background-color: #222f3e;
+  color: white;
+}
+.contact-section a {
+  color: white;
+}
+.contactIcon {
+  margin: 0 10px;
+}
+.footer-section {
+  background-color: #34495e;
+  color: white;
+}

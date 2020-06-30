@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.headerContact {
+  padding: 10px;
+  /* border-bottom: 2px solid black; */
+}
+.header-info {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+.headerIcon {
+  color: black;
+  display: flex;
+  text-decoration: none;
+}
+.headerIcon p {
+  margin: 0 10px;
+}

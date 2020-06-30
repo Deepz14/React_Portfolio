@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.graphicdesignImg {
+  width: 50%;
+}
+.mobileapp {
+  background-color: #2ec4b6;
+  width: 90%;
+  border-radius: 15px;
+}
+.lightroom {
+  background-color: #ee6c4d;
+  width: 85%;
+  border-radius: 15px;
+}
+.illustrator {
+  background-color: #f0a6ca;
+  width: 75%;
+  border-radius: 15px;
+}

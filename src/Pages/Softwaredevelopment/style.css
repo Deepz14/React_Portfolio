@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.softwareImg {
+  width: 50%;
+}
+.dotnet {
+  background-color: #48bfe3;
+  width: 90%;
+  border-radius: 15px;
+}
+.java {
+  background-color: #bc6c25;
+  width: 85%;
+  border-radius: 15px;
+}
+.custom {
+  background-color: #d100d1;
+  width: 75%;
+  border-radius: 15px;
+}
